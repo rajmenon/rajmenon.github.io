@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Life | Raj Menon]]></title>
+  <link href="http://rajmenon.github.io/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://rajmenon.github.io/"/>
+  <updated>2014-04-25T12:19:04-05:00</updated>
+  <id>http://rajmenon.github.io/</id>
+  <author>
+    <name><![CDATA[Raj Menon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A New Begining]]></title>
+    <link href="http://rajmenon.github.io/blog/2014/04/25/a-new-begining/"/>
+    <updated>2014-04-25T12:00:40-05:00</updated>
+    <id>http://rajmenon.github.io/blog/2014/04/25/a-new-begining</id>
+    <content type="html"><![CDATA[<p>Finally a brand new spanking blog. Thanks to <a href="http://github.com">Github</a> pages,  <a href="octopress.org">Octopress</a> and <a href="http://code52.org/DownmarkerWPF/">MarkPad</a>. I hope to continue my initial enthusiasm into blogging and keep this updated with things I wanted to update.</p>
+]]></content>
+  </entry>
+  
+</feed>
